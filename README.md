@@ -2,8 +2,8 @@
 <h2 align="center">but, you can call me <strong>essana3</strong></h2>
 
 - 🌱 I’m currently learning Docker & Kubernetes
-- 👯 I’m looking to collaborate on anything JS
+- 👯 I’m looking to collaborate on anything JS/TS
 - 💬 Ask me about anything tech-related
-- 📫 How to reach me: <a href="mailto:koussayhajkacem@gmail.com">koussayhajkacem@gmail.com</a>
+- 📫 How to reach me: <a href="mailto:koussay@hajkacem.com">koussay@hajkacem.com</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=essana3&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
